@@ -11,7 +11,6 @@ Users can:
     <li>Sign Up and Login</li>
     <li>Create reviews and give a score to a specific restaurant</li>
     <li>Only delete and update their own reviews</li>
-    <li></li>
     <li>Upload a profile picture in their profile page</li>
 </ul>
 
