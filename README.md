@@ -34,8 +34,8 @@ Users can:
 </ul>
 
 <h3>Screenshoots</h3>
-<img src="https://github.com/pamelaposada/my-review/screenshoots/my-review-1.png" alt="home page">
+<img src="https://github.com/pamelaposada/my-review/blob/main/screenshoots/my-review-1.png" alt="home page">
 
-<img src="https://github.com/pamelaposada/my-review/screenshoots/my-review-2.png" alt="review">
+<img src="https://github.com/pamelaposada/my-review/blob/main/screenshoots/my-review-2.png" alt="review">
 
-<img src="https://github.com/pamelaposada/my-review/screenshoots/my-review-3.png" alt="home">
+<img src="https://github.com/pamelaposada/my-review/blob/main/screenshoots/my-review-3.png" alt="home">
