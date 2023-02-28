@@ -1,7 +1,7 @@
 <h1>My Review</h1>
 
 <h3>Project Description</h3>
-Small CRUD application about restaurant reviews in Melbourne Australia.
+Small CRUD (Create, Read, Update, and Delete) application about restaurant reviews in Melbourne Australia.
 
 <h3>Project Features </h3>
 
@@ -11,7 +11,6 @@ Users can:
     <li>Sign Up and Login</li>
     <li>Create reviews and give a score to a specific restaurant</li>
     <li>Only delete and update their own reviews</li>
-    <li></li>
     <li>Upload a profile picture in their profile page</li>
 </ul>
 
@@ -22,9 +21,11 @@ Users can:
     <li>HTML</li> 
 </ul>
 
-<h3>Frameworks</h3>
+<h3>Frameworks and Libraries</h3>
 <ul>
     <li>Bootstrap</li>
+    <li>Font Awesome</li>
+    
 </ul>
 
 <h3>Tools</h3>
