@@ -89,7 +89,7 @@ CREATE TABLE `users` (
 
 INSERT INTO `users` (`usersId`, `usersEmail`, `usersUid`, `usersPwd`) VALUES
 (5, 'testuser2@test.com', 'testuser2', '$2y$10$.4e8soSbNIdfeXeogb3m7.u97/RRRViZ1XDpjVaE562edlzToC8IO'),
-(6, 'pameposada@gmail.com', 'pam', '$2y$10$w38WVzJzQQzScWuVZBwGQ.ts9zuC.HHGkHMAMMFlb1.S6s1kbjclq'),
+(6, 'pam@example.com', 'pam', '$2y$10$w38WVzJzQQzScWuVZBwGQ.ts9zuC.HHGkHMAMMFlb1.S6s1kbjclq'),
 (7, 'scotty@scotty.com', 'scotty', '$2y$10$QFBPfIUysVldmhv0tUhYce5a0lizuG33m.s5.jRUlmTnTUJK8hthK'),
 (8, 'tom@tom.com', 'tom', '$2y$10$pW7F3QTZNe0VJOoOe2eYbOz4MzTFazbFkthytBcCELFev8by2xf6O'),
 (9, 'alex@alex.com', 'alex', '$2y$10$xl7b6yT.pljQi9mfzXRXOuQ1QcqnfGrPWLGWk7uY80QSxInwoeJgO');
